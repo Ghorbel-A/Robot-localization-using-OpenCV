@@ -1,0 +1,1 @@
+void ic_threshold( IplImage * pImage,double value,int deb_ligne,int fin_ligne,int deb_colonne,int fin_colonne);
